@@ -9,3 +9,5 @@ Project 2 Part 1: https://www.figma.com/proto/bByaurP8uNFFxtue3rj9Gb/Assignment-
 Project 2 Part 2: https://www.figma.com/proto/8zs7I42G8Nkvp2bX6WJwba/Assignment-2-Part-2?page-id=0%3A1&node-id=14-84&starting-point-node-id=14%3A84&t=HVR7Uqu1euhRz8Nj-1
 
 Proejct 3: https://www.figma.com/proto/XsfFhWdgniaDLxjZoc5gxQ/Assignment-3?page-id=0%3A1&node-id=20-1025&starting-point-node-id=28%3A696&show-proto-sidebar=1&t=GvjXVSTbdAPCnrgQ-1
+
+Sprint: https://www.figma.com/proto/Yp3Mks76WrYrg66kylz5VE/Sprint-High-Fidelity?page-id=0%3A1&node-id=101-2232&node-type=FRAME&viewport=690%2C290%2C0.07&t=9PbLMOMRtaSl4rpJ-1&scaling=contain&content-scaling=fixed&starting-point-node-id=101%3A2232&show-proto-sidebar=1
